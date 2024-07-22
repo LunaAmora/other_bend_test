@@ -1,0 +1,7 @@
+module = "LunaAmora/other_bend_test"
+
+[lib]
+path = "src/main.bend"
+
+[dependencies]
+"github.com/LunaAmora/bend_dep_test" = "0"

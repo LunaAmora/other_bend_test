@@ -1,0 +1,5 @@
+[[package]]
+name = "bend_dep_test"
+version = "0.3.0"
+source = "github.com/LunaAmora/bend_dep_test"
+dependencies = []
