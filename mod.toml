@@ -4,4 +4,4 @@ module = "LunaAmora/other_bend_test"
 path = "src/main.bend"
 
 [dependencies]
-"github.com/LunaAmora/bend_dep_test" = "0"
+"github.com/LunaAmora/bend_dep_test" = "0.3.0"
